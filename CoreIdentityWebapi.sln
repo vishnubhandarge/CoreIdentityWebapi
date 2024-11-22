@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreIdentityWebapi", "CoreIdentityWebapi\CoreIdentityWebapi.csproj", "{F384DA84-3DC3-4254-9A89-641D818740E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Management.Service", "User.Management.Service\User.Management.Service.csproj", "{6A7DAECC-93DF-46F8-B734-579CECB8B889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F384DA84-3DC3-4254-9A89-641D818740E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F384DA84-3DC3-4254-9A89-641D818740E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F384DA84-3DC3-4254-9A89-641D818740E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F384DA84-3DC3-4254-9A89-641D818740E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7DAECC-93DF-46F8-B734-579CECB8B889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7DAECC-93DF-46F8-B734-579CECB8B889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7DAECC-93DF-46F8-B734-579CECB8B889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7DAECC-93DF-46F8-B734-579CECB8B889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
